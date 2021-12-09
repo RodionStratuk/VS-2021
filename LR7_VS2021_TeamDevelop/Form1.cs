@@ -46,5 +46,10 @@ namespace LR7_VS2021_TeamDevelop
         {
             Close();
         }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Хочешь жить умей вертеться", "Сообщение");
+        }
     }
 }
