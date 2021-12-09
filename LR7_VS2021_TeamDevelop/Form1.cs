@@ -24,7 +24,7 @@ namespace LR7_VS2021_TeamDevelop
 
         private void button13_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("*Анекдот Мельничука*", "Вніманіє анекдот!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         
         private void button22_Click(object sender, EventArgs e)
