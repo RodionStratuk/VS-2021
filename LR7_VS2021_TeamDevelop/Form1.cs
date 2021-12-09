@@ -44,7 +44,7 @@ namespace LR7_VS2021_TeamDevelop
 
         private void button21_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("У сучасному автомобілі все продумано до дрібниць. Заснув за кермом, бах, і твоє обличчя вже на подушці...", "Анекдот");
+            MessageBox.Show("У сучасному автомобілі все продумано до дрібниць. Заснув за кермом, бах, і твоє обличчя вже на подушці...", "Анекдот", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
