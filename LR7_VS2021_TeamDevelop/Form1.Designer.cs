@@ -72,6 +72,7 @@ namespace LR7_VS2021_TeamDevelop
             this.button2.TabIndex = 1;
             this.button2.Text = "2. Балашук";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
