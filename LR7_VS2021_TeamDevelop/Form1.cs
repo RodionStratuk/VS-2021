@@ -26,5 +26,10 @@ namespace LR7_VS2021_TeamDevelop
         {
 
         }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            new FormKukharuk().Show();
+        }
     }
 }
